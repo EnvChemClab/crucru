@@ -1,4 +1,4 @@
-program curcruugoku
+program crucruugoku
   implicit none
 
   integer :: i = 100,  speed = 1
